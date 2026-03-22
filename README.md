@@ -1,2 +1,2 @@
-# envirommental-logger
-this is a project of mine using larry dumper made by @lishbon aka bat on discord, and im making it better with moree features. (coming out soon)
+# RELEASED!
+Original dumper by bat aka @lishbon on discord. If any error found in forked dumper let me know on discord @aerexis. THANK YOUU!. renamer made by me
